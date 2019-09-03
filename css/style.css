@@ -302,3 +302,12 @@ section .info div .contact {
       margin-bottom: 50px;
    }
 }
+
+@media (max-width: 500px) {
+   .gallery .images {
+    width: 80%;
+}
+   .main-nav {
+    padding: 25px 5px;
+}
+   }
